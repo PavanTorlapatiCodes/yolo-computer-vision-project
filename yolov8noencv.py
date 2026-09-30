@@ -40,7 +40,7 @@ frame_wid = 640
 frame_hyt = 480
 
 # cap = cv2.VideoCapture(1)Q
-cap = cv2.VideoCapture(r"C:\Users\T pavan kumar\Downloads\elephants.mp4")
+cap = cv2.VideoCapture(r"C:\Users\T pavan kumar\OneDrive\Dokumen\trafic.mp4")
 
 if not cap.isOpened():
     print("Cannot open camera")
